@@ -1,0 +1,47 @@
+//Moonpay
+
+//English
+"• Buy LTC with many fiat pairs\n• Pay with multiple methods\n• Global payment provider";
+
+//French
+• Achetez des LTC avec de nombreuses paires de fiat • Payez avec plusieurs méthodes • Fournisseur de paiement mondial
+
+//Spanish
+• Compre LTC con muchos pares fiat • Pague con múltiples métodos • Proveedor de pago global
+
+//German
+ • Kaufen Sie LTC mit vielen Fiat-Paaren. • Bezahlen Sie mit mehreren Methoden. • Globaler Zahlungsanbieter
+  
+ //Dutch
+• Koop LTC met veel fiat-paren • Betaal met meerdere methoden • Wereldwijde betalingsprovider
+
+ //Indonesian
+ • Beli LTC dengan banyak pasangan fiat • Bayar dengan berbagai metode • Penyedia pembayaran global
+ 
+ //Danish
+ • Køb LTC med mange fiat-par • Betal med flere metoder • Global betalingsudbyder
+ 
+//Italian
+ • Acquista LTC con molte coppie fiat • Paga con più metodi • Fornitore globale di pagamenti
+ 
+ //Russian 
+ • Покупайте LTC с помощью множества фиатных пар • Оплачивайте несколькими способами • Глобальный платежный провайдер
+ 
+ //Portuguese
+ • Compre LTC com muitos pares fiat • Pague com vários métodos • Provedor de pagamento global
+ 
+ //Swedish
+ • Köp LTC med många fiatpar • Betala med flera metoder • Global betalningsleverantör
+
+ //Korean
+ • 많은 법정 화폐 쌍으로 LTC 구매 • 여러 방법으로 지불 • 글로벌 지불 공급자
+ 
+ //Japanese
+ •多くの法定紙幣ペアでLTCを購入する\n•複数の方法で支払う\n•グローバル決済プロバイダー
+ //Chinese Simplified
+ •购买具有许多法定货币对的LTC•以多种方式支付•全球支付提供商
+  
+ //Chinese Traditional
+ •購買具有許多法定貨幣對的LTC•以多種方式支付•全球支付提供商
+ 
+  
