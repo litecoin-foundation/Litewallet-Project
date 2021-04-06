@@ -11,13 +11,13 @@
 //Danish
 "- Registrering og login\n, - Tilgængelig kortsaldo\n, - Nulstil adgangskode\n, - Ingen overførsel til Litewallet\n, - Kun USA";
 //Dutch
-"- Registratie en inloggen\n, - Beschikbaar kaartsaldo\n, - Wachtwoord opnieuw instellen\n, - Geen overdracht naar Litewallet\n, - Alleen in de VS.";
+"- Registratie en inloggen\n, - Beschikbaar kaartsaldo\n, - Wachtwoord opnieuw instellen\n, - Geen overdracht naar Litewallet\n, - Alleen in de USA.";
 //French
 - Inscription et connexion\n, - Solde de la carte disponible\n, - Réinitialiser le mot de passe\n, - Aucun transfert vers Litewallet\n, - États-Unis uniquement";
 //German
 "- Registrierung & Login\n, - Verfügbares Kartenguthaben\n, - Passwort zurücksetzen\n, - Keine Übertragung an Litewallet\n, - Nur USA";
 //Indonesian
-"- Pendaftaran & Login\n, - Saldo kartu yang tersedia\n, - Reset kata sandi\n, - Tidak ada transfer ke Litewallet\n, - Hanya AS";
+"- Pendaftaran & Login\n, - Saldo kartu yang tersedia\n, - Reset kata sandi\n, - Tidak ada transfer ke Litewallet\n, - AS Sudah";
 //Italian
 "- Registrazione e accesso\n, - Saldo della carta disponibile\n, - Reimposta password\n, - Nessun trasferimento a Litewallet\n, - Solo negli Stati Uniti";
 //Japanese
