@@ -1,0 +1,36 @@
+## Phase 2 Litecoin Card disclaimer bullets
+
+//English
+- Registration & Login,- Available card balance, - Reset password, - No transfer to Litewallet, - US Only
+==================================================================================================================
+
+//Chinese Simplified
+"-注册和登录\n，-可用卡余额\n，-重置密码\n，-不能转移到Litewallet\n，-仅限美国";
+//Chinese Traditional
+"-註冊和登錄\n，-可用卡餘額\n，-重置密碼\n，-不能轉移到Litewallet\n，-僅限美國";
+//Danish
+"- Registrering og login\n, - Tilgængelig kortsaldo\n, - Nulstil adgangskode\n, - Ingen overførsel til Litewallet\n, - Kun USA";
+//Dutch
+"- Registratie en inloggen\n, - Beschikbaar kaartsaldo\n, - Wachtwoord opnieuw instellen\n, - Geen overdracht naar Litewallet\n, - Alleen in de VS.";
+//French
+- Inscription et connexion\n, - Solde de la carte disponible\n, - Réinitialiser le mot de passe\n, - Aucun transfert vers Litewallet\n, - États-Unis uniquement";
+//German
+"- Registrierung & Login\n, - Verfügbares Kartenguthaben\n, - Passwort zurücksetzen\n, - Keine Übertragung an Litewallet\n, - Nur USA";
+//Indonesian
+"- Pendaftaran & Login\n, - Saldo kartu yang tersedia\n, - Reset kata sandi\n, - Tidak ada transfer ke Litewallet\n, - Hanya AS";
+//Italian
+"- Registrazione e accesso\n, - Saldo della carta disponibile\n, - Reimposta password\n, - Nessun trasferimento a Litewallet\n, - Solo negli Stati Uniti";
+//Japanese
+"-登録とログインn\,-利用可能なカード残高n\,- パスワードを再設定するn\,-Litewalletへの転送なしn\,-米国のみ";
+//Korean
+"-등록 및 로그인n\,-사용 가능한 카드 잔액n\,- 암호를 재설정n\,-Litewallet으로 양도 불가n\,-미국 만 해당";
+//Portuguese
+"- Registro e login\n, - Saldo do cartão disponível\n, - Redefinir senha\n, - Sem transferência para Litewallet\n, - Somente nos EUA";
+//Russian 
+"- Регистрация и вход\n,- Доступный баланс карты\n,- Сброс пароля\n,- Без перевода на Litewallet\n,- Только США";
+//Spanish
+"- Registro e inicio de sesión\n, - Saldo de tarjeta disponible\n, - Restablecer contraseña\n, - Sin transferencia a Litewallet\n, - Solo en EE. UU.";
+//Swedish
+"- Registrering & inloggning\n, - Tillgängligt kortsaldo\n, - Återställ lösenord\n, - Ingen överföring till Litewallet\n, - Endast USA";
+
+ 
