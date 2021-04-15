@@ -1,0 +1,75 @@
+<en-US>
+- Buy Litecoin with Moonpay within 5 minutes!
+- Code improvements
+- Bug fixes
+</en-US>
+<da-DK>
+- Køb Litecoin med Moonpay inden for 5 minutter!
+- Kodeforbedringer
+- Fejlrettelser
+</da-DK>
+<de-DE>
+- Kaufen Sie Litecoin mit Moonpay innerhalb von 5 Minuten!
+- Codeverbesserungen
+- Fehlerbehebung
+</de-DE>
+<es-ES>
+- ¡Compre Litecoin con Moonpay en 5 minutos!
+- Mejoras en el código
+- Corrección de errores
+</es-ES>
+<fr-FR>
+- Achetez des Litecoin avec Moonpay en 5 minutes!
+- Améliorations du code
+- Correction de bugs
+</fr-FR>
+<id>
+- Beli Litecoin dengan Moonpay dalam 5 menit!
+- Perbaikan kode
+- Perbaikan kerusakan
+</id>
+<it-IT>
+- Acquista Litecoin con Moonpay in 5 minuti!
+- Miglioramenti al codice
+- Correzioni di bug
+</it-IT>
+<ja-JP>
+-5分でMoonpayでライトコインを購入！
+-コードの改善
+- バグの修正
+</ja-JP>
+<ko-KR>
+-5 분 안에 Moonpay로 라이트 코인을 구매하세요!
+-코드 개선
+- 버그 수정
+</ko-KR>
+<nl-NL>
+- Koop Litecoins met Moonpay in 5 minuten!
+- Code verbeteringen
+- Bugfixes
+</nl-NL>
+<pt-PT>
+- Compre Litecoin com Moonpay em 5 minutos!
+- Melhorias de código
+- Correção de bugs
+</pt-PT>
+<ru-RU>
+- Купи Litecoin с Moonpay за 5 минут!
+- Улучшения кода
+- Исправление ошибок
+</ru-RU>
+<sv-SE>
+- Köp Litecoin med Moonpay på 5 minuter!
+- Kodförbättringar
+- Bug fixar
+</sv-SE>
+<zh-CN>
+-在5分钟内用Moonpay购买Litecoin！
+-代码改进
+- Bug修复
+</zh-CN>
+<zh-TW>
+-在5分鐘內用Moonpay購買Litecoin！
+-代碼改進
+- Bug修復
+</zh-TW>
