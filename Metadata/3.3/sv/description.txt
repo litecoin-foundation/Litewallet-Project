@@ -1,0 +1,8 @@
+Litewallet är den första fristående Litecoin-plånboken byggd för iOS med fokus på tillgänglighet, säkerhet och enkelhet. Litewallet är utvecklat av Litecoin Foundation och gör det lättare än någonsin att komma igång med Litecoin! • Skicka och ta emot Litecoin när som helst, var som helst och till någon annan.
+• Säkerhetskopiera och återställ din plånbok på alla enheter med "återställningsfrasen" som genereras av appen. Även om du tappar telefonen tappar du inte din Litecoin.
+• Det finns inga dolda servrar för att säkerhetskopiera eller lagra dina mynt, du har full kontroll.
+• AES-hårdvarukryptering, sandlådor för app och nyckelring och kodsignaturer skyddar din Litecoin och skyddar den mot skadlig programvara och grundläggande säkerhetsfel.
+• Anslut direkt till Litecoin Network med enkel betalningsverifiering - utan att behöva lagra blockchain är Litewallet redo när du är.
+Litewallet är den officiella Litecoin SPV-plånbok som produceras av Charlie Lee och Litecoin Foundation
+Detta projekt är öppen källkod, du kan granska koden här:
+https://github.com/litecoin-foundation/loafwallet-ios

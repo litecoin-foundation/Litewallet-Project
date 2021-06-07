@@ -1,0 +1,8 @@
+Litewallet은 접근성, 보안 및 단순성에 중점을 둔 iOS 용으로 제작 된 최초의 독립형 Litecoin Wallet입니다. Litecoin Foundation에서 개발 한 Litewallet을 사용하면 Litecoin을 훨씬 쉽게 시작할 수 있습니다! • 언제 어디서나 누구에게나 라이트 코인을 보내고받을 수 있습니다.
+• 앱에서 생성 된 '복구 문구'를 사용하여 모든 기기에서 지갑을 백업하고 복구합니다. 휴대 전화를 분실하더라도 Litecoin을 잃지 않습니다.
+• 코인을 백업하거나 저장하는 숨겨진 서버가 없으므로 완벽하게 제어 할 수 있습니다.
+• AES 하드웨어 암호화, 앱 샌드 박싱 및 키 체인 및 코드 서명은 Litecoin을 보호하고 멀웨어 및 기본 보안 결함으로부터 안전하게 유지합니다.
+• 간단한 결제 확인으로 라이트 코인 네트워크에 직접 연결 – 블록 체인을 저장할 필요없이 라이트 월렛은 준비가되어 있습니다.
+Litewallet은 Charlie Lee와 Litecoin Foundation에서 제작 한 공식 Litecoin SPV 지갑입니다.
+이 프로젝트는 오픈 소스이며 여기에서 코드를 검토 할 수 있습니다.
+https://github.com/litecoin-foundation/loafwallet-ios

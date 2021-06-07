@@ -1,0 +1,8 @@
+Litewallet是为iOS构建的首个独立Litecoin电子钱包，重点关注可访问性，安全性和简便性。由莱特币基金会开发，Litewallet使莱特币入门变得前所未有的轻松！ •随时随地向任何人发送和接收Litecoin。
+•使用应用程序生成的“恢复短语”在任何设备上备份和恢复您的钱包。即使您丢失了手机，也不会丢失您的莱特币。
+•没有任何隐藏的服务器可以备份或存储硬币，您可以完全控制。
+•AES硬件加密，应用程序沙箱以及密钥链和代码签名有助于保护您的Litecoin，并使它免受恶意软件和基本安全漏洞的侵害。
+•通过简单的付款验证直接连接到Litecoin网络-无需存储区块链，Litewallet随时可用。
+Litewallet是由Charlie Lee和Litecoin Foundation生产的官方Litecoin SPV钱包
+该项目是开源的，您可以在这里查看代码：
+https://github.com/litecoin-foundation/loafwallet-ios
